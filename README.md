@@ -1,4 +1,3 @@
-
 🚗 Rento — Car Rental Platform  >>> Rento — Find. Book. Drive.
 
 Rento is a modern full-stack car rental platform that allows users to discover, browse, and rent cars through an easy-to-use online interface. The platform connects customers with available vehicles and provides a streamlined rental experience.
